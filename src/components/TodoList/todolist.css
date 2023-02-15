@@ -1,0 +1,10 @@
+.listitem{
+    display: flex;
+    justify-content: space-between;
+}
+.task{
+    color: red;
+}
+.taskdone{
+    color: green;
+}
